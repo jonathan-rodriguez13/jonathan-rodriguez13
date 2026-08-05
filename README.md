@@ -1,52 +1,40 @@
-# ¡Hola! Soy Jonathan Rodríguez 👋
-### Desarrollador Full Stack | Especialista en Odoo, Integraciones & AI-Native Development
+# ¡Hola, soy Jonathan Rodríguez! 
 
-📍 **Guadalajara, Jalisco, México**  
-📧 **Email:** jonathan.conalep31@gmail.com  
-💼 **LinkedIn:** [Jonathan Uriel Rodríguez Chávez](https://www.linkedin.com/in/jonathan-uriel-rodriguez-chavez-638b7b427/)  
+Desarrollador Full Stack enfocado principalmente en el ecosistema **Odoo ERP**, creación de integraciones personalizadas y optimización de flujos con metodologías modernas asistidas por IA.
 
----
+ Me apasiona resolver problemas complejos de backend, conectar sistemas empresariales con APIs externas y construir software limpio, mantenible y listo para producción.
 
-## 🚀 Sobre mí
-
-Ingeniero en Desarrollo de Software especializado en la arquitectura, personalización y automatización de procesos empresariales sobre **Odoo ERP** (Python, JavaScript/OWL, PostgreSQL, XML)[cite: 1, 2]. 
-
-* 🐍 **Backend:** Python, Node.js, PHP, REST APIs, PostgreSQL, MySQL[cite: 1, 2].
-* ⚡ **Frontend:** JavaScript, React, HTML5/CSS3, XML (Odoo Views)[cite: 1, 2].
-* ⚙️ **ERP & Integraciones:** Módulos personalizados Odoo, Facturación Electrónica SAT / CFDI 4.0, Pasarelas de Pago[cite: 1, 2].
-* 🤖 **AI-Native Workflow:** Integración diaria de herramientas y agentes de código (Claude Code, ChatGPT) para generación, optimización y testing de software[cite: 2].
-* 🛠️ **DevOps & Herramientas:** Git, GitHub Actions (CI/CD), Docker, Linux, VPNs[cite: 1, 2].
+📍 Guadalajara, Jalisco, México  
+💼 LinkedIn: [linkedin.com/in/jonathan-uriel-rodriguez-chavez](https://www.linkedin.com/in/jonathan-uriel-rodriguez-chavez-638b7b427/)  
+📧 Email: jonathan.conalep31@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack & Herramientas
+## 🛠️ Con qué trabajo en el día a día
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+* **ERP & Core:** Odoo (ORM, Python, XML, PostgreSQL).
+* **Desarrollo Web & APIs:** Python (FastAPI/Flask), JavaScript (OWL / React), REST APIs, JSON-RPC / XML-RPC.
+* **Bases de Datos:** PostgreSQL, MySQL.
+* **DevOps & Entorno:** Git/GitHub, Docker, Linux, CI/CD pipelines.
+* **AI-Native Workflow:** Uso cotidiano de agentes de código (Claude Code, ChatGPT) para acelerar pruebas, refactorización e investigación.
 
 ---
 
-## 📌 Proyectos Destacados
+## Proyectos Destacados
 
-### 📦 [odoo-cfdi-automation](https://github.com/jonathan-rodriguez13/odoo-cfdi-automation)
-> Módulo personalizado para Odoo enfocado en la automatización y gestión del flujo de timbrado CFDI 4.0 (SAT)[cite: 1, 2].
-* **Tech:** Python, Odoo ORM, XML, PostgreSQL, REST APIs[cite: 1, 2].
-* **Características:** Generación automática de comprobantes, manejo de errores de timbrado e integración con PACs[cite: 1, 2].
+### 🟢 [odoo-cfdi-automation](https://github.com/jonathan-rodriguez13/odoo-cfdi-automation)
+Módulo personalizado en Odoo para gestionar el flujo de timbrado CFDI 4.0 directamente desde los módulos contables.
+* Extensión del modelo `account.move` y vistas personalizadas con XML/XPath.
+* Integración con PACs para timbrado fiscal y manejo automatizado de respuestas del SAT.
 
 ### 🔌 [odoo-rest-api-integrations](https://github.com/jonathan-rodriguez13/odoo-rest-api-integrations)
-> Módulo/Middleware para conectar Odoo con servicios de terceros mediante conectores RESTful[cite: 1, 2].
-* **Tech:** Python, FastAPI / Flask, Odoo External API (xmlrpc/jsonrpc)[cite: 1, 2].
-* **Características:** Sincronización de inventario en tiempo real y conectividad con plataformas de pagos[cite: 1, 2].
+Middleware ligero en FastAPI que actúa como conector entre Odoo ERP y servicios externos.
+* Consultas en tiempo real de inventarios y catálogos usando la API externa de Odoo.
+* Arquitectura desacoplada para integrar e-commerce o pasarelas de pago de forma segura.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Mi Actividad
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathan-rodriguez13&show_icons=true&theme=radial" alt="Estadísticas de GitHub" />
