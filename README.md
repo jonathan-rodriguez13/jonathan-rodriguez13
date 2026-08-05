@@ -10,7 +10,7 @@ Desarrollador Full Stack enfocado principalmente en el ecosistema **Odoo ERP**, 
 
 ---
 
-## 🛠️ Con qué trabajo en el día a día
+##  Con qué trabajo en el día a día
 
 * **ERP & Core:** Odoo (ORM, Python, XML, PostgreSQL).
 * **Desarrollo Web & APIs:** Python (FastAPI/Flask), JavaScript (OWL / React), REST APIs, JSON-RPC / XML-RPC.
